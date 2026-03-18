@@ -253,6 +253,10 @@
     {
       "from": "bureaux_cot",
       "to": "bop_4"
+    },
+    {
+      "from": "naissances",
+      "to": "8"
     }
   ],
   "meta": {
