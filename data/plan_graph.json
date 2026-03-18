@@ -1,18 +1,6 @@
 {
   "nodes": [
     {
-      "id": "point_13",
-      "name": "point_13",
-      "x": 379,
-      "y": 566
-    },
-    {
-      "id": "entree_module_1",
-      "name": "Entrée module 1",
-      "x": 390,
-      "y": 546
-    },
-    {
       "id": "bureaux_cbc",
       "name": "Bureaux CBC",
       "x": 90,
@@ -215,10 +203,6 @@
       "to": "7"
     },
     {
-      "from": "salle_reveil",
-      "to": "7"
-    },
-    {
       "from": "9",
       "to": "bop_1"
     },
@@ -249,6 +233,26 @@
     {
       "from": "14",
       "to": "lifts"
+    },
+    {
+      "from": "8",
+      "to": "salle_reveil"
+    },
+    {
+      "from": "7",
+      "to": "8"
+    },
+    {
+      "from": "naissances",
+      "to": "9"
+    },
+    {
+      "from": "4",
+      "to": "11"
+    },
+    {
+      "from": "bureaux_cot",
+      "to": "bop_4"
     }
   ],
   "meta": {
