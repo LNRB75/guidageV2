@@ -1,2 +1,0 @@
-Par rapport à la version wayfinding-pwa, le plan de fond a changé. Il est en meilleur résolution, avec des couelurs circulations / pièces et des pictogrammes pour les ascenseurs et les escaliers.
-
